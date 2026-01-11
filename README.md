@@ -74,6 +74,30 @@ The system allows users to order clothing items online, track order status, requ
 
 ---
 
-## 📂 UI
+## 🖥️ UI Screenshots
+
+### 🏠 Home Page
+![Home Page](screenshots/home.png)
+
+### 👕 Product Listing
+![Product Listing](screenshots/product-list.png)
+
+### 📄 Product Details
+![Product Details](screenshots/product-details.png)
+
+### 🛒 Shopping Cart
+![Shopping Cart](screenshots/cart.png)
+
+### 🚚 Order Tracking
+![Order Tracking](screenshots/order-tracking.png)
+
+### 🔁 Return Request
+![Return Request](screenshots/return-request.png)
+
+### 🛠️ Admin Dashboard
+![Admin Dashboard](screenshots/admin-dashboard.png)
+
+### 📦 Admin Order Management
+![Admin Order Management](screenshots/admin-orders.png)
 
 
