@@ -92,7 +92,7 @@ The system allows users to order clothing items online, track order status, requ
 ![Order Tracking](screenshots/order-tracking.png)
 
 ### 🔁 Return Request
-![Return Request](screenshots/return.png)
+![Return Request](Liara_Ecom-main/screenshots/return.png)
 
 ### 🛠️ Admin Dashboard
 ![Admin Dashboard](screenshots/dashboard.png)
