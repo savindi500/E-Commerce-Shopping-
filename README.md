@@ -77,10 +77,10 @@ The system allows users to order clothing items online, track order status, requ
 ## 🖥️ UI Screenshots
 
 ### 🏠 Home Page
-![Home Page](Liara_Ecom-main/screenshots/home.png)
+![Home Page](Liara_Ecom-main/screenshots/Home.png)
 
 ### 👕 Product Listing
-![Product Listing](Liara_Ecom-main/screenshots/product-list.png)
+![Product Listing](Liara_Ecom-main/screenshots/product.png)
 
 ### 📄 Product Details
 ![Product Details](Liara_Ecom-main/screenshots/products.png)
@@ -88,8 +88,6 @@ The system allows users to order clothing items online, track order status, requ
 ### 🛒 Shopping Cart
 ![Shopping Cart](Liara_Ecom-main/screenshot/cart.png)
 
-### 🚚 Order Tracking
-![Order Tracking](Liara_Ecom-main/screenshot/ordertracking.png)
 
 ### 🔁 Return Request
 ![Return Request](Liara_Ecom-main/screenshot/return.png)
